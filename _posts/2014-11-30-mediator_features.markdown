@@ -1,40 +1,17 @@
 ---
 layout: post
-title:  "Mediator Features"
+title:  "Nerdisms & Work Projects"
 date:   2014-11-30 14:34:25
 categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-#Mediator Formats and CSS features
 
-Examples for different formats and css features
+## Iditarod race logs
 
-#Header Formats
-#Header1
-##Header2
+As a lover of unconventional sports I adore the Iditarod dogsled race that takes place every year in Alaska. One obstacle that has always made my fandom difficult is sifting through the information heavy logs that get published in roughly half hour intervals to find just the relevant information that I want. This year when the race kicked off I decided to take care of this problem and write some code that would scrape the most recent update logs. Providing me with only the most crucial :relaxed: information and (eventually) highlighting updates from one log to the next. 
 
-#Blockquotes
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+https://github.com/PamDegener/Iditarod
 
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
 
-##unorderd lists
-- Apple
-- Banana
-- Plum
-
-#Links
-This is an [example link](http://example.com/ "With a Title").
-
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
